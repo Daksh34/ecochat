@@ -1,0 +1,6 @@
+{
+  "name": "EcoChat",
+  "description": "EcoChat by Ecozen Systems — Next-Gen WhatsApp CRM with Broadcasts, Automated Replies, Workflows, AI Replies, RAG Chatbots, and Agentic AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
