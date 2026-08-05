@@ -2517,6 +2517,79 @@ footer {
   color: #777;
 }
 
+/* Key Features Mobile Responsiveness */
+@media (max-width: 992px) {
+  .KeyFeaturesSection_content___zzZk {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  .KeyFeaturesSection_leftPartBottom__vcMMH {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  .KeyFeaturesSection_title__ArG6P {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 600px) {
+  .KeyFeaturesSection_container__lfTh1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .KeyFeaturesSection_title__ArG6P {
+    font-size: 26px;
+  }
+  .FeatureCard_container__0YA9d {
+    box-shadow: 3px 3px 0 var(--ink);
+    border-radius: 16px;
+  }
+  .FeatureCard_imageWrapper__tKx8N {
+    padding: 16px;
+    min-height: auto;
+  }
+  .FeatureCard_content__wt4Op {
+    padding: 16px 18px;
+  }
+  .FeatureCard_title__Vnlb1 {
+    font-size: 18px;
+  }
+  .FeatureCard_description__Z4OXf {
+    font-size: 13px;
+  }
+  .flow-step {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+  .flow-step b {
+    font-size: 12px;
+  }
+  .flow-step small {
+    font-size: 10px;
+  }
+  .agent-card {
+    padding: 8px 10px;
+    gap: 8px;
+  }
+  .agent-card b {
+    font-size: 11px;
+  }
+  .online-tag {
+    padding: 2px 6px;
+    font-size: 9px;
+  }
+  .broadcast-header b {
+    font-size: 13px;
+  }
+  .broadcast-stats b {
+    font-size: 14px;
+  }
+  .chat-bubble {
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+}
+
 /* ==========================================================================
    INTERACTIVE PRICING SECTION
    ========================================================================== */
